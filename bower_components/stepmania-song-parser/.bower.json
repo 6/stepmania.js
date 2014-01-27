@@ -1,0 +1,13 @@
+{
+  "name": "stepmania-song-parser",
+  "homepage": "https://github.com/6/stepmania-song-parser",
+  "_release": "2860503b76",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "2860503b76723649a319be51eaf107daf74bd887"
+  },
+  "_source": "git://github.com/6/stepmania-song-parser.git",
+  "_target": "master",
+  "_originalSource": "6/stepmania-song-parser"
+}

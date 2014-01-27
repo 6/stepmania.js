@@ -1,0 +1,7 @@
+{
+  "name": "stepmania.js",
+  "version": "0.0.1",
+  "dependencies": {
+    "stepmania-song-parser": "6/stepmania-song-parser#master"
+  }
+}
